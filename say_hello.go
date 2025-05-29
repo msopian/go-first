@@ -1,5 +1,5 @@
 package gofirst
 
-func SayHello() string{
-	return "Hello "
+func SayHello() string {
+	return "Hello World"
 }
